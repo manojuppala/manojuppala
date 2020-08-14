@@ -28,4 +28,4 @@
 [twitter]: https://twitter.com/Manoj_0863
 [youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
 [linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
-[couesera]: https://www.coursera.org/learn/data-analysis-with-python
+[coursera]: https://www.coursera.org/learn/data-analysis-with-python
