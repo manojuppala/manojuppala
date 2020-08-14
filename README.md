@@ -2,11 +2,11 @@
 
 ## I'm a Data science and AI Enthusiast!
 
-- 🔭 I’m currently pursuing a course on coursera [Data analysis with python][coursera]!
+- 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
+- 🔭 Currently pursuing a course on coursera [Data analysis with python][coursera]!
 - 🌱 I’m currently learning to learn.
-- 👯 
-- 🥅 2020 Goals: 
-- ⚡ Fun fact: 
+- 🥅 API's are fun.
+- ⚡ Fun fact: Learning something new everyday keps my dopamine levels high.
 
 ### Connect with me:
 
@@ -21,7 +21,29 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/1024px-Python-logo-notext.svg.png" />][python]
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/unnamed.png" />]
+
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/724px-R_logo.svg.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/Matlab_Logo.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/251-2515658_tableau-logo-logo-tableau-software-transparent-hd-png.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/Git-Icon-1788C.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/306px-ISO_C%2B%2B_Logo.svg.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/512px-HTML5_logo_and_wordmark.svg.png" />]
+
 
 <br />
 <br />
