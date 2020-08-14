@@ -3,7 +3,7 @@
 ## I'm a Data science and AI Enthusiast!
 
 - 🔭 I’m currently pursuing a course on coursera [Data analysis with python][coursera]!
-- 🌱 I’m currently learning to learn
+- 🌱 I’m currently learning to learn.
 - 👯 
 - 🥅 2020 Goals: 
 - ⚡ Fun fact: 
