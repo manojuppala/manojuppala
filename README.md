@@ -19,9 +19,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/search?q=python+png&sxsrf=ALeKk01Mtz1KU9_7k6FnYzUiXqKxPH8kUQ:1597414436085&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJhZbA8JrrAhVFmuYKHbSABZIQ_AUoAXoECA4QAw&biw=1093&bih=500#imgrc=pCDxQjgV-aSV0M" />][https://code.visualstudio.com/]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/1024px-Python-logo-notext.svg.png" />][python]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][https://code.visualstudio.com/]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <br />
 <br />
@@ -31,3 +31,5 @@
 [youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
 [linkedin]: https://www.linkedin.com/in/manoj-uppala-1a8b33169/
 [coursera]: https://www.coursera.org/learn/data-analysis-with-python
+[vscode]: https://code.visualstudio.com/
+[python]: https://www.python.org/doc/
