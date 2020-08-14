@@ -8,7 +8,7 @@
 - 🥅 API's are fun.
 - ⚡ Fun fact: Learning something new everyday keps my dopamine levels high.
 
-### Connect with me:
+### Connect with me :
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
