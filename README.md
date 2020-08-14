@@ -29,19 +29,17 @@
 
 [<img align="left" alt="matlab" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/Matlab_Logo.png" />][matlab]
 
-[<img align="left" alt="Tableau" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/251-2515658_tableau-logo-logo-tableau-software-transparent-hd-png.png" />][tableau]
+[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Git" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/Git-Icon-1788C.png" />][git]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/Git-Icon-1788C.png" />]
+[<img align="left" alt="c++" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/306px-ISO_C%2B%2B_Logo.svg.png" />][]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/306px-ISO_C%2B%2B_Logo.svg.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />][]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />][]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/512px-HTML5_logo_and_wordmark.svg.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/512px-HTML5_logo_and_wordmark.svg.png" />][]
 
 
 <br />
@@ -58,3 +56,4 @@
 [rlang]: https://github.com/manojuppala/R-programming
 [matlab]: https://www.mathworks.com/products/matlab.html
 [tableau]: https://www.tableau.com/ 
+[git]: https://git-scm.com/doc
