@@ -17,7 +17,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools :
 
 [<img align="left" alt="python" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/1024px-Python-logo-notext.svg.png" />][python]
 
