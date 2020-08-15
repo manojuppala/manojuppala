@@ -29,17 +29,17 @@
 
 [<img align="left" alt="matlab" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/Matlab_Logo.png" />][matlab]
 
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
+[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 [<img align="left" alt="Git" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/Git-Icon-1788C.png" />][git]
 
-[<img align="left" alt="c++" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/306px-ISO_C%2B%2B_Logo.svg.png" />][]
+[<img align="left" alt="c++" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/306px-ISO_C%2B%2B_Logo.svg.png" />][c++]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />][]
+[<img align="left" alt="c language" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />][c]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />][]
+[<img align="left" alt="css" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />][css]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/512px-HTML5_logo_and_wordmark.svg.png" />][]
+[<img align="left" alt="html" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/512px-HTML5_logo_and_wordmark.svg.png" />][html]
 
 
 <br />
@@ -57,3 +57,8 @@
 [matlab]: https://www.mathworks.com/products/matlab.html
 [tableau]: https://www.tableau.com/ 
 [git]: https://git-scm.com/doc
+[github]: https://github.com/
+[c++]: https://devdocs.io/cpp/
+[c]: https://devdocs.io/c/
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
+[html]: https://devdocs.io/html/
