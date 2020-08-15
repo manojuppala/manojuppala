@@ -8,6 +8,9 @@
 - 🥅 API's are fun.
 - ⚡ Fun fact: Learning something new everyday keps my dopamine levels high.
 
+<img src="https://github-readme-stats.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258">
+
+
 ### Connect with me :
 
 [<img align="left" alt="manoj uppala" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -35,9 +38,9 @@
 
 [<img align="left" alt="c++" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/306px-ISO_C%2B%2B_Logo.svg.png" />][c++]
 
-[<img align="left" alt="c language" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />][c]
+[<img align="left" alt="c language" width="28px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />][c]
 
-[<img align="left" alt="css" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />][css]
+[<img align="left" alt="css" width="24px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />][css]
 
 [<img align="left" alt="html" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/512px-HTML5_logo_and_wordmark.svg.png" />][html]
 
