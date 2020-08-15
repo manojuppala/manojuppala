@@ -38,9 +38,9 @@
 
 [<img align="left" alt="c++" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/306px-ISO_C%2B%2B_Logo.svg.png" />][c++]
 
-[<img align="left" alt="c language" width="28px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />][c]
+[<img align="left" alt="c language" width="32px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/c-programming.png" />][c]
 
-[<img align="left" alt="css" width="24px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />][css]
+[<img align="left" alt="css" width="20px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/html5-logo-opencode-css-8.png" />][css]
 
 [<img align="left" alt="html" width="26px" src="https://github.com/manojuppala/github-images/blob/master/.github/images/512px-HTML5_logo_and_wordmark.svg.png" />][html]
 
