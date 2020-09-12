@@ -13,6 +13,7 @@
 
 <img src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/github-readme-stats)
 
 ### Connect with me :
 
