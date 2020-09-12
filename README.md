@@ -1,5 +1,3 @@
-<body style="background-color:#9AF5D6;"></body>
-
 ## Hi there, I'm manoj - aka [Manoj Uppala][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@uppala0863)
