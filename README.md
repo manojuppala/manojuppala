@@ -1,28 +1,74 @@
-### Hi there, I'm manoj - aka [Manoj Uppala][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<body style="background-color:#9AF5D6;"></body>
+
+## Hi there, I'm manoj - aka [Manoj Uppala][github] <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@uppala0863)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Manoj_0863?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FManoj_0863&screen_name=Manoj_0863)
 
-## I'm a Data science and AI Enthusiast!
+### I'm a Data science and AI Enthusiast!
 
 - 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
 - 🔭 Currently pursuing a course on coursera [Data analysis with python][coursera]!
 - 🌱 I’m currently learning to learn.
-- 🥅 API's are fun.
-- ⚡ Fun fact: Learning something new everyday keps my dopamine levels high.
+- 🥅 API's are fun, i like to play with twitter,youtube Apis.
+- ⚡ Learning something new everyday keps my dopamine levels high.
 ---
-## Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=IBM-Applied-Data-science-specialization&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/IBM-Applied-Data-science-specialization)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/Hadoop-MapReduce)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=R-programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/R-programming)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Pygame&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/Pygame)
+### Pinned Repositories
+<p align="left">
+<a href="https://github.com/manojuppala/IBM-Applied-Data-science-specialization">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=IBM-Applied-Data-science-specialization&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+</a>
+<a href="https://github.com/manojuppala/Hadoop-MapReduce">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+</a>
+<a href="https://github.com/manojuppala/R-programming">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=R-programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+</a>
+<a href="https://github.com/manojuppala/Pygame">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Pygame&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+</a>
+</p>
 
 ---
-
-<img src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258">
+<p align="left">
+<a href="https://github.com/manojuppala">
+  <img height="180em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+</a>
+</p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/github-readme-stats)
+<br />
+
+## 🛠 Languages and Tools :
+
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;][python]
+[![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;][java]
+[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
+[![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c]
+[![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;][c++]
+[![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)&nbsp;][rlang]
+![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;\
+[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![MS Excel](https://img.shields.io/twitter/url?color=333333&label=MS%20Excel&logo=Microsoft%20Excel&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
+![MySQL](https://img.shields.io/twitter/url?color=000000&label=MySQL&logo=MySQL&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2F-Windows-333333%3Fstyle%3Dflat%26logo%3DWindows)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)&nbsp;
+![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Apache)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=Mathworks)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)&nbsp;\
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;][css]
+![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
+
+---
 
 ### Connect with me :
 
@@ -32,35 +78,9 @@
 [<img align="left" alt="manoj uppala" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-### Languages and Tools :
-
-[<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-
-[<img align="left" alt="java programming" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
-
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-
-[<img align="left" alt="R language" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rlang]
-
-[<img align="left" alt="matlab" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlab]
-
-[<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-[<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-
-[<img align="left" alt="c++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][c++]
-
-[<img align="left" alt="c language" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
-
-[<img align="left" alt="css" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-
-[<img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-
-
-<br />
 <br />
 
+## Keep learning... 🏃
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 [github]: https://github.com/manojuppala
