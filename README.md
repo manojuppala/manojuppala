@@ -10,9 +10,19 @@
 - 🌱 I’m currently learning to learn.
 - 🥅 API's are fun.
 - ⚡ Fun fact: Learning something new everyday keps my dopamine levels high.
+---
+## Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=IBM-Applied-Data-science-specialization&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/IBM-Applied-Data-science-specialization)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/Hadoop-MapReduce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=R-programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/R-programming)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Pygame&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/Pygame)
 
+---
+
+## My GitHub stats
 <img src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258">
 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258)](https://github.com/manojuppala/github-readme-stats)
 
 ### Connect with me :
@@ -26,27 +36,27 @@
 
 ### Languages and Tools :
 
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 
-[<img align="left" alt="java programming" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="java programming" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
-[<img align="left" alt="R language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rlang]
+[<img align="left" alt="R language" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rlang]
 
-[<img align="left" alt="matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlab]
+[<img align="left" alt="matlab" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][matlab]
 
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-[<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
-[<img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][c++]
+[<img align="left" alt="c++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][c++]
 
-[<img align="left" alt="c language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
+[<img align="left" alt="c language" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
 
-[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="css" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 
-[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 
 
 <br />
