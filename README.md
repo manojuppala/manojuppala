@@ -74,6 +74,15 @@
 </p>
 </details>
 
+<details>
+  <summary><b>✅ Recent Github Activity</b></summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+</details>
+
 ---
 
 ### Keep learning... 🏃
