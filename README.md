@@ -65,20 +65,9 @@
 ---
 
 <html>
-<style>
-details > summary {
-  padding: 4px;
-  width: 200px;
-  background-color: #091258;
-  color: #3DEA6F;
-  font-size: 15px;
-  border: none;
-  cursor: pointer;
-}
-</style>
 <body>
 <details>
-<summary><b>⚙️ GitHub Analytics</b></summary>
+<summary style="padding: 4px; width: 170px; background-color: #091258; color: #3DEA6F; font-size: 15px; border: none; cursor:pointer;"><b>⚙️ GitHub Analytics</b></summary>
 <p align="left">
 <a href="https://github.com/manojuppala">
   <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
@@ -90,8 +79,6 @@ details > summary {
 </html>
 
 ---
-<br />
-<br />
 
 ### Keep learning... 🏃
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
