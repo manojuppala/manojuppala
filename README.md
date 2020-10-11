@@ -87,6 +87,10 @@
 
 ---
 
+<img align="center" width="200" height="150" src="https://raw.github.com/manojuppala/assets/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
+</br>
+<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=manojuppala&color=green&style=flat-square&label=Visitors" alt="manojuppala"></p>
+
 ### Keep learning... 🏃
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
