@@ -7,21 +7,14 @@
 
 ### 👨🏻‍💻 About Me
 
-<div class="row">
-<div class="column">
-    <img align="center" width="200" height="150" src="https://github.com/manojuppala/manojuppala/blob/master/assets/080f909da46192c0db62b76330302b0c.gif?raw=true">
-  </div>
-  <div class="column">
-  <ul>
-    <li> 📈 I'm a Data science and AI Enthusiast! </li>
-    <li> 💻 I am a 3rd year computer science undergrad at Lovely Professional University.</li>
-    <li> 🔭 Currently pursuing a course on coursera [Data analysis with python][coursera]!</li>
-    <li> 🌱 I’m currently learning to learn.</li>
-    <li> 🥅 API's are fun, i like to play with twitter,youtube Apis.</li>
-    <li> ⚡ Learning something new everyday keps my dopamine levels high.</li>
-  </ul>
-  </div>
-</div>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+- 📈 I'm a Data science and AI Enthusiast!
+- 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
+- 🔭 Currently pursuing a course on coursera [Data analysis with python][coursera]!
+- 🌱 I’m currently learning to learn.
+- 🥅 API's are fun, i like to play with twitter,youtube Apis.
+- ⚡ Learning something new everyday keps my dopamine levels high.
 
 ---
 
@@ -81,13 +74,14 @@
 <a href="https://github.com/manojuppala">
   <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+
 </a>
 </p>
 </details>
 
 <details>
   <summary><b>✅ Recent Github Activity</b></summary>
-  
+  <img align="center" width="200" height="150" src="https://github.com/manojuppala/manojuppala/blob/master/assets/080f909da46192c0db62b76330302b0c.gif?raw=true"><h2>Comming soon..</h2>
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
@@ -96,12 +90,13 @@
 
 ---
 
-<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=manojuppala&color=091258&style=flat-square&label=Visitors" alt="manojuppala"></p>
-
-### Keep learning... 🏃
-
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/manojuppala/count.svg" />
+  </br>
+  <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="500" height="320" />
+</p>
+ 
 [github]: https://github.com/manojuppala
 [twitter]: https://twitter.com/Manoj_0863
 [youtube]: https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ
