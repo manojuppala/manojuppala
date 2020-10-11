@@ -7,12 +7,21 @@
 
 ### 👨🏻‍💻 About Me
 
-- 📈 I'm a Data science and AI Enthusiast!
-- 💻 I am a 3rd year computer science undergrad at Lovely Professional University.
-- 🔭 Currently pursuing a course on coursera [Data analysis with python][coursera]!
-- 🌱 I’m currently learning to learn.
-- 🥅 API's are fun, i like to play with twitter,youtube Apis.
-- ⚡ Learning something new everyday keps my dopamine levels high.
+<div class="row">
+<div class="column">
+    <img align="center" width="200" height="150" src="https://github.com/manojuppala/manojuppala/blob/master/assets/080f909da46192c0db62b76330302b0c.gif?raw=true">
+  </div>
+  <div class="column">
+  <ul>
+    <li> 📈 I'm a Data science and AI Enthusiast! </li>
+    <li> 💻 I am a 3rd year computer science undergrad at Lovely Professional University.</li>
+    <li> 🔭 Currently pursuing a course on coursera [Data analysis with python][coursera]!</li>
+    <li> 🌱 I’m currently learning to learn.</li>
+    <li> 🥅 API's are fun, i like to play with twitter,youtube Apis.</li>
+    <li> ⚡ Learning something new everyday keps my dopamine levels high.</li>
+  </ul>
+  </div>
+</div>
 
 ---
 
@@ -87,9 +96,7 @@
 
 ---
 
-<img align="center" width="200" height="150" src="https://raw.github.com/manojuppala/assets/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
-</br>
-<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=manojuppala&color=green&style=flat-square&label=Visitors" alt="manojuppala"></p>
+<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=manojuppala&color=091258&style=flat-square&label=Visitors" alt="manojuppala"></p>
 
 ### Keep learning... 🏃
 
