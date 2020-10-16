@@ -70,7 +70,7 @@
 
 [![Spotify](https://img.shields.io/badge/spotify_playing_🎧-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
 
-[<img src="https://novatorem-git-master.manojuppala.vercel.app/api/spotify-playing" alt="manoj uppala Spotify Playing" width="350" />](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
+[<img src="https://novatorem-70to7h8y6.vercel.app/api/spotify-playing" alt="manoj uppala Spotify Playing" width="350" />](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
 
 <details>
 <summary>✅ GitHub Analytics</summary>
@@ -93,19 +93,6 @@
 </details>
 
 ---
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [6 Amazing Tips to Successfully Freelance in Web Development (2020)](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
-- [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
-- [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
-    <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/thedataguy)
 
 ### 🏄follow me on
 
