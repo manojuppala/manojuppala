@@ -70,7 +70,7 @@
 
 [![Spotify](https://img.shields.io/badge/spotify_playing_🎧-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
 
-[<img src="https://novatorem-six-amber.vercel.app/api/spotify-playing" alt="manoj uppala Spotify Playing" width="350" />](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
+[<img src="https://spotify-now-playing-gilt-theta.vercel.app/api/spotify-playing" alt="manoj uppala Spotify Playing" width="350" />](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
 
 <details>
 <summary>✅ GitHub Analytics</summary>
