@@ -68,9 +68,9 @@
 
 ---
 
-[![Spotify](https://img.shields.io/badge/spotify_playing_🎧-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/channel/UCX93oEN0tza6KfuAWfI61vQ)
+[![Spotify](https://img.shields.io/badge/spotify_playing_🎧-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
 
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
+[![Spotify](https://spotify-anoltl9w6.vercel.app/api/spotify)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
 
 <details>
 <summary>✅ GitHub Analytics</summary>
