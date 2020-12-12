@@ -27,11 +27,11 @@
 <a href="https://github.com/manojuppala/Hadoop-MapReduce">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-<a href="https://github.com/manojuppala/R-programming">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=R-programming&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/manojuppala/youtube_downloader">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=youtube_downloader&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
-<a href="https://github.com/manojuppala/Pygame">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Pygame&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/manojuppala/https://github.com/manojuppala/sorting-algorithm-visualizer">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=sorting-algorithm-visualizer&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 </p>
 
@@ -70,7 +70,7 @@
 
 [![Spotify](https://img.shields.io/badge/spotify_playing_🎧-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
 
-[![Spotify](https://manojuppala.vercel.app/api/spotify)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
+[![Spotify](https://spotify-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/mv93pmcxxemfvpc9bpxq72m0l)
 
 <details>
 <summary>✅ GitHub Analytics</summary>
