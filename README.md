@@ -67,9 +67,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
 
 ---
-
-<details>
-<summary>✅ GitHub Analytics</summary>
 <p align="left">
 <a href="https://github.com/manojuppala">
   <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
@@ -77,16 +74,6 @@
 
 </a>
 </p>
-</details>
-
-<details>
-  <summary>✅ Recent Github Activity</summary>
-  <img align="center" width="200" height="150" src="https://github.com/manojuppala/manojuppala/blob/master/assets/080f909da46192c0db62b76330302b0c.gif?raw=true"><h2>Comming soon..</h2>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 
