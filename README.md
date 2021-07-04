@@ -21,8 +21,8 @@
 ### 📌Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/manojuppala/neovim-init.vim">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=neovim-init.vim&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+<a href="https://github.com/manojuppala/dotfiles">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=dotfiles&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
 </a>
 <a href="https://github.com/manojuppala/Hadoop-MapReduce">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
