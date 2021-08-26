@@ -1,4 +1,4 @@
-## Hi there, I'm manoj  ([manojuppala.ml](https://manojuppala.ml/)) </h2>
+## Hi there, I'm manoj  ([manojuppala.ml](https://manojuppala.ml/))
 
 ---
 ### 📌Pinned Repositories
