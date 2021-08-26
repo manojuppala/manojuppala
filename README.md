@@ -1,6 +1,5 @@
 ## Hi there, I'm manoj  ([manojuppala.ml](https://manojuppala.ml/))
 
----
 ### 📌Pinned Repositories
 
 <p align="left">
