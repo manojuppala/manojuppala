@@ -1,4 +1,4 @@
-## Hi there, I'm manoj  ([manojuppala.ml](https://manojuppala.ml/))
+## Hi there, I'm manoj ([manojuppala.ml](https://manojuppala.ml/))
 
 ### 📌Pinned Repositories
 
@@ -6,8 +6,8 @@
 <a href="https://github.com/manojuppala/dotfiles">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=dotfiles&title_color=ecbe7b&icon_color=ecbe7b&text_color=ecbe7b&bg_color=282c34" />
 </a>
-<a href="https://github.com/manojuppala/Hadoop-MapReduce">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=Hadoop-MapReduce&title_color=ecbe7b&icon_color=ecbe7b&text_color=ecbe7b&bg_color=282c34" />
+<a href="https://github.com/manojuppala/camKapture">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=camKapture&title_color=ecbe7b&icon_color=ecbe7b&text_color=ecbe7b&bg_color=282c34" />
 </a>
 <a href="https://github.com/manojuppala/youtube_downloader">
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=youtube_downloader&title_color=ecbe7b&icon_color=ecbe7b&text_color=ecbe7b&bg_color=282c34" />
@@ -22,7 +22,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ### 🛠 Languages and Tools
-<!-- took all this icons from 
+
+<!-- took all this icons from
 https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,7 +60,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 </div>
 
 ---
+
 ### GitHub stats
+
 <p align="left">
 <a href="https://github.com/manojuppala">
   <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ecbe7b&icon_color=ecbe7b&text_color=ecbe7b&bg_color=282c34" />
