@@ -4,10 +4,13 @@
 
 <p align="left">
 <a href="https://github.com/manojuppala/camKapture">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=camKapture&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=camKapture&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
 </a>
 <a href="https://github.com/manojuppala/dotfiles">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=dotfiles&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=dotfiles&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+</a>
+<a href="https://github.com/manojuppala/tasklist-cli">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=tasklist-cli&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
 </a>
 </p>
 
