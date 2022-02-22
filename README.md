@@ -49,4 +49,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 </a>
 </p>
 
----
+<p align="left">
+<a href="https://github.com/manojuppala">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojuppala&theme=monokai" />
+
+</a>
+</p>
