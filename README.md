@@ -20,15 +20,20 @@
 </a>
 </p>
 
----
-
-### GitHub stats
+### 📌Pinned Repositories
 
 <p align="left">
-<a href="https://github.com/manojuppala">
-  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
-
+<a href="https://github.com/manojuppala/camKapture">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=camKapture&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+</a>
+<a href="https://github.com/manojuppala/dotfiles">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=dotfiles&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+</a>
+<a href="https://github.com/manojuppala/tasklist-cli">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=tasklist-cli&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+</a>
+<a href="https://github.com/manojuppala/sorting-algorithm-visualizer">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=manojuppala&repo=sorting-algorithm-visualizer&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
 </a>
 </p>
 
@@ -51,3 +56,15 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
  
 </div>
+
+---
+
+### GitHub stats
+
+<p align="left">
+<a href="https://github.com/manojuppala">
+  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=343a40" />
+
+</a>
+</p>
