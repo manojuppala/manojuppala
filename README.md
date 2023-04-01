@@ -28,15 +28,12 @@ I am a frontend react engineer and an aspiring full stack developer. Using open-
 `⚙️ Skills`
 
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,graphql,nextjs,materialui,postgres,postman,git,latex,neovim,vscode,md,bash,linux,html,css" style="width:27rem;"/>
-  </a>
 </p>
 
 `📈 Stats`
 
 <p align="left">
-<a href="https://github.com/manojuppala">
  <img
   className="mb-2 embed-responsive"
   height="160em"
@@ -49,7 +46,6 @@ I am a frontend react engineer and an aspiring full stack developer. Using open-
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=cdd9e5&icon_color=cdd9e5&text_color=cdd9e5&bg_color=22272e&hide_border=true"
   alt="githubstats"
   />
-</a>
 </p>
 
 `💸 Sponsor`  
