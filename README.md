@@ -21,7 +21,7 @@ I am a frontend react engineer and an aspiring full stack developer. Using open-
 `🔗 Links`
 
 - Website: [manojuppala.com](https://manojuppala.com/)
-- Blog: [blog.manojuppala.com](blog.manojuppala.com)
+- Blog: [blog.manojuppala.com](https://blog.manojuppala.com)
 - Youtube: [The Data Guy](https://www.youtube.com/@manojuppala)
 - Email: [uppala0863@gmail.com](mailto:uppala0863@gmail.com)
 
