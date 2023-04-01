@@ -1,20 +1,20 @@
 `Hi i'm manoj 👋`  
 I am a frontend react engineer and an aspiring full stack developer. Using open-source software makes me happy, building open-source software makes me even more happier. Perfektenschlag!!
 
-`📱 Socials :`
+`📱 Socials`
 
 <p>
   <a href="https://www.linkedin.com/in/manojuppala/">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="width:1.6rem;padding:0px 2.5px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width='25'/>
   </a>
   <a href="https://stackoverflow.com/users/11874811/manoj">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" style="width:1.6rem;padding:0px 2.5px;"/>
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width='25'/>
   </a>
   <a href="https://github.com/manojuppala">
-    <img src="https://skillicons.dev/icons?i=github" style="width:1.6rem;padding:0px 2.5px;"/>
+    <img src="https://skillicons.dev/icons?i=github" width='25'/>
   </a>
   <a href="https://gitlab.com/manojuppala">
-    <img src="https://skillicons.dev/icons?i=gitlab" style="width:1.6rem;padding:0px 2.5px;"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" width='25'/>
   </a>
 </p>
 
