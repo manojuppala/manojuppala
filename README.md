@@ -20,7 +20,7 @@ I am a frontend react engineer and an aspiring full stack developer. Using open-
 
 `🔗 Links`
 
-- Website: [manojuppala.com](https://manojuppala.com/)
+- Website: [playwithcode.org](https://playwithcode.org/)
 - Blog: [blog.manojuppala.com](https://blog.manojuppala.com)
 - Email: [contact.manojuppala@gmail.com](mailto:contact.manojuppala@gmail.com)
 
