@@ -20,9 +20,9 @@ I am a frontend react engineer and an aspiring full stack developer. Using open-
 
 `🔗 Links`
 
-- Website: [playwithcode.org](https://playwithcode.org/)
-- Blog: [blog.manojuppala.com](https://blog.manojuppala.com)
-- Email: [contact.manojuppala@gmail.com](mailto:contact.manojuppala@gmail.com)
+- Website: [manojuppala.com](https://manojuppala.com/)
+- Blog: [manojuppala.com/blog](https://manojuppala.com/blog)
+- Email: [contact@manojuppala.com](mailto:contact.@manojuppala.com)
 
 `⚙️ Skills`
 
@@ -49,3 +49,4 @@ I am a frontend react engineer and an aspiring full stack developer. Using open-
 
 `💸 Sponsor`  
 If you like what i do you can [Buy me a coffee](https://www.buymeacoffee.com/uppala0863S).
+
