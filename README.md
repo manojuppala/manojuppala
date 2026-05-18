@@ -1,52 +1,27 @@
-`Hi i'm manoj 👋`  
-I am a frontend react engineer and an aspiring full stack developer. Using open-source software makes me happy, building open-source software makes me even more happier. Perfektenschlag!!
+<div align="center">
+</br>
+</br>
 
-`📱 Socials`
+<h1>Forward Deployed Engineer</h1>
 
-<p>
-  <a href="https://www.linkedin.com/in/manojuppala/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width='25'/>
-  </a>
-  <a href="https://stackoverflow.com/users/11874811/manoj">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width='25'/>
-  </a>
-  <a href="https://github.com/manojuppala">
-    <img src="https://skillicons.dev/icons?i=github" width='25'/>
-  </a>
-  <a href="https://gitlab.com/manojuppala">
-    <img src="https://skillicons.dev/icons?i=gitlab" width='25'/>
-  </a>
-</p>
-
-`🔗 Links`
-
-- Website: [manojuppala.com](https://manojuppala.com/)
-- Blog: [manojuppala.com/blog](https://manojuppala.com/blog)
-- Email: [contact@manojuppala.com](mailto:contact.@manojuppala.com)
-
-`⚙️ Skills`
+<h2><a href="https://manojuppala.com/" target="_blank" rel="noopener noreferrer">manojuppala.com</a> | <a href="mailto:manojuppala.contact@gmail.com" target="_blank" rel="noopener noreferrer">manojuppala.contact@gmail.com</a> | <a href="https://www.linkedin.com/in/manojuppala/" target="_blank" rel="noopener noreferrer">linkedin/manojuppala</a></h2>
 
 <p>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,graphql,nextjs,materialui,postgres,postman,git,latex,neovim,vscode,md,bash,linux,html,css" style="width:27rem;"/>
+    <img src="https://skills.syvixor.com/api/icons?i=claudeai,googlegemini,chatgpt,ollama,aws,vscode,git,docker" style="width:27rem;"/>
+</p>
+<p>
+    <img src="https://skills.syvixor.com/api/icons?i=supabase,lovable,replit,vercel,sentry,stripe,postman" style="width:23rem;"/>
 </p>
 
-`📈 Stats`
-
-<p align="left">
- <img
-  className="mb-2 embed-responsive"
-  height="160em"
-  src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=manojuppala&show_icons=true&title_color=cdd9e5&icon_color=cdd9e5&text_color=cdd9e5&bg_color=22272e&hide_border=true"
-  alt="github-stats"
-  />
-   <img
-  className="mb-2 embed-responsive"
-  height="160em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojuppala&layout=compact&title_color=cdd9e5&icon_color=cdd9e5&text_color=cdd9e5&bg_color=22272e&hide_border=true"
-  alt="githubstats"
-  />
+<p>
+ <a href="https://github.com/Fireproof-Software" target="_blank" rel="noopener noreferrer">
+  <img
+   className="mb-2 embed-responsive"
+   height="160em"
+   src="./assets/fireproof_software.PNG"
+   alt="github-stats"
+   />
+ </a>
 </p>
 
-`💸 Sponsor`  
-If you like what i do you can [Buy me a coffee](https://www.buymeacoffee.com/uppala0863S).
-
+</div>
